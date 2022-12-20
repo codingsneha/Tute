@@ -1,5 +1,5 @@
 ![favicon](https://user-images.githubusercontent.com/79274516/208620734-42bf9819-3212-4e84-8c25-e6bbd469aaa2.png)
-Tute creates a Spoken Tutorial from a transcript and video file
+te
 
 ---The project is currently under development for stable release---
 
