@@ -4,7 +4,11 @@ Checkout the sample backend programs! - Go to tute > templates. Run any of the s
 The following video shows how to run the sample tts programs-
 
 
-https://user-images.githubusercontent.com/79274516/208626474-2cfd5ab4-4b9f-48fb-9f52-f2647e7e8c3b.mp4
+
+
+
+https://user-images.githubusercontent.com/79274516/208628818-38f2e0ac-3feb-470c-a82b-2f63a20ce285.mp4
+
 
 
 
