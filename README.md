@@ -1,4 +1,4 @@
-![favicon](https://user-images.githubusercontent.com/79274516/208620734-42bf9819-3212-4e84-8c25-e6bbd469aaa2.png)
+<img width="24" alt="favicon" src="https://user-images.githubusercontent.com/79274516/208621370-d39bdb26-2df4-4bc3-8d14-7009fe3b3f2f.png">
 te
 
 ---The project is currently under development for stable release---
