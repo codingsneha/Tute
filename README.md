@@ -48,19 +48,18 @@ The web-application is created on the Django framework.
 <h3>Project Structure</h3>
 The project is divided into two Django apps - 'audio' and 'video'.
 
-*It is a really simple structure as of now, the transcript-to-audio-converter file is in the 'audio' folder and the audio-and-video-merger file is in the 'video' folder.*
+*The transcript-to-audio-converter file is in the 'audio' folder and the audio-and-video-merger file is in the 'video' folder.*
 
+<br>
+<br>
 
-<h3>Things I am working on...</h3>
 I am currently working on the frontend and UI/UX of this web-application. The backend is pretty neat.
 
-<br>
+<br><br>
 <h3> Frontend Mockups </h3>
-![  (1)](https://user-images.githubusercontent.com/79274516/208641604-fb5a9881-e4d9-41f2-947a-004b79a8d675.jpg)
-<br>
-![  (2)](https://user-images.githubusercontent.com/79274516/208641617-a16ad725-f7af-4e17-86bf-1203ff9ab60b.jpg)
-<br>
-![  (3)](https://user-images.githubusercontent.com/79274516/208641634-ca2f0494-779d-4169-9187-3dbf68de8f1f.jpg)
-<br>
-![  (4)](https://user-images.githubusercontent.com/79274516/208641646-df305ffa-745e-4aec-b31e-33ce9eb8168f.jpg)
-<br>
+
+![8](https://user-images.githubusercontent.com/79274516/208644218-38c27b4d-726d-487f-9482-f1e4cb875bb3.jpg)
+![9](https://user-images.githubusercontent.com/79274516/208644224-8a4df6d2-3766-4491-b3f1-e04f940b06e4.jpg)
+![10](https://user-images.githubusercontent.com/79274516/208644229-b5a86142-fe01-4588-92c2-9e49307e66ce.jpg)
+![11](https://user-images.githubusercontent.com/79274516/208644232-d71a03f8-d7d5-425f-b024-986d3135fece.jpg)
+
