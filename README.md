@@ -1,4 +1,4 @@
-<img width="24" alt="favicon" src="https://user-images.githubusercontent.com/79274516/208621370-d39bdb26-2df4-4bc3-8d14-7009fe3b3f2f.png">##**te**
+<img width="24" alt="favicon" src="https://user-images.githubusercontent.com/79274516/208621370-d39bdb26-2df4-4bc3-8d14-7009fe3b3f2f.png"> #te
 
 Checkout the sample backend programs! - Go to **tute** > **templates**. Run any of the sample python programs and the text will be synthesized to audio and played.
 The following video shows how to run the sample tts programs-
