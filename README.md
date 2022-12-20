@@ -1,5 +1,4 @@
-<img width="24" alt="favicon" src="https://user-images.githubusercontent.com/79274516/208621370-d39bdb26-2df4-4bc3-8d14-7009fe3b3f2f.png">
-te
+<img width="24" alt="favicon" src="https://user-images.githubusercontent.com/79274516/208621370-d39bdb26-2df4-4bc3-8d14-7009fe3b3f2f.png">te
 
 ---The project is currently under development for stable release---
 
