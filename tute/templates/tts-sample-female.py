@@ -1,7 +1,7 @@
 import pyttsx3
 
 string="""Hello\n
-        this is a sample run"""
+        this is a sample run, thank you for watching"""
 
 engine = pyttsx3.init()
 engine.setProperty('rate', 150)
