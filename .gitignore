@@ -1,0 +1,6 @@
+.env
+*/__pycache__
+*/migrations
+*/.vscode
+*credentials.json
+*client_secrets.json
