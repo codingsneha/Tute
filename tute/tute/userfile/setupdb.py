@@ -23,7 +23,7 @@ curtype    = pymysql.cursors.DictCursor
 mySQLConnection = getDatabaseConnection(ipa, usr, passwd, charset, curtype)
 mySQLCursor     = mySQLConnection.cursor()
 
-createUser(mySQLCursor, "tute","pwd")
+createUser(mySQLCursor, "host","")
 
 mySqlListUsers = "select host, user from mysql.user;"
 mySQLCursor.execute(mySqlListUsers)
