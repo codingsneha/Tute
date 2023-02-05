@@ -15,3 +15,6 @@ for file in file_list:
 for i, file in enumerate(sorted(file_list, key = lambda x: x['title']), start=1):
 	print('Downloading {} file from GDrive ({}/{})'.format(file['title'], i, len(file_list)))
 	file.GetContentFile(file['title'])
+
+file1 = drive.CreateFile({'id': file['id']})
+file1.GetContentString('test.txt')
