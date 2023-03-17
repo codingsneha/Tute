@@ -1,3 +1,28 @@
+"""
+TO DO
+	*f*
+	- file fetch from frontend form (using flask)
+		- text file
+		- video file
+	*f*
+	uploadUserFile.py
+		- file upload to google drive
+		- generate/ store ID for the userID, txt and mp4 instance
+		- insert the three valued ID tuple to userdata table
+	- access file using ID (key = user ID)
+		transcriptToAudioConverter.py
+			- create audio from transcript 
+		audioVideoMerger.py
+			- merge audio and video
+			- output file upload to google drive
+			- generate/ store ID for output video
+			- use flask to pass it to frontend
+	*f*
+	- render video to user on frontend.
+	*f*
+	- flush user data
+"""
+
 import pymysql
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
