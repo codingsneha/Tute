@@ -1,8 +1,10 @@
-.env
-*/__pycache__
-*/migrations
-*/.vscode
+*.env
+venv/
+*.pyc
+__pycache__ /
+*.sqlite3
+*migrations/
+.vscode /
 *credentials.json
 *client_secrets.json
 *token.json
-token.json
