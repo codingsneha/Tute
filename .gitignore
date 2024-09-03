@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.env
+
+.tenv/
+tenv/
+ENV/
+env.bak/
+env/
+
+
+# Django migrations
+*/migrations/
+*.sqlite3
+
+# Pytest cache
+.pytest_cache/

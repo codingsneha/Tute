@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Success</title>
+    {% load static %}
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            background-color: #F4A261;
+            padding: 10px 20px;
+            border-bottom: 2px solid #E76F51;
+        }
+        .header img {
+            height: 50px;
+            margin-right: 15px;
+        }
+        .header h1 {
+            color: white;
+            font-size: 24px;
+            margin: 0;
+        }
+        .container {
+            width: 50%;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
+        }
+        h2 {
+            color: #E76F51;
+            text-align: left;
+        }
+        a {
+            color: #E76F51;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        video {
+            width: 100%;
+            margin-top: 20px;
+            border: 2px solid #F4A261;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="{% static 'images/logo.png' %}" alt="Tute Logo">
+        <h1>codingsneha</h1>
+    </div>
+    <div class="container">
+        <h2>Upload Successful!</h2>
+        <p>Your video has been processed successfully.</p>
+        <p><a href="{{ final_video_url }}">Download the final video</a></p>
+        {% if final_video_url %}
+            <video controls>
+                <source src="{{ final_video_url }}" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        {% else %}
+            <p>No video available.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
