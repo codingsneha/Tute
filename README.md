@@ -2,13 +2,6 @@
 
 # Spoken Tutorial Generator
 
-Welcome to **Tute**, a powerful tool designed to effortlessly create spoken tutorials by combining your text transcripts with video files. Tute streamlines the process, converting your written content into speech and merging it seamlessly with video, making it an ideal solution for educational content creators, tutorial developers, and anyone looking to enhance their video presentations.
-
-## Key Features
-- **Automatic Transcript to Audio Conversion**: Tute uses `pyttsx3` to convert your text transcript into clear, spoken audio.
-- **Seamless Video and Audio Merging**: The generated audio is automatically synced and merged with your video using `ffmpeg`, ensuring smooth and professional results.
-- **User-Friendly Interface**: The application features an intuitive upload and download system, allowing you to easily manage your files.
-
 ## How to Run This Project
 
 ### Step 1: Set Up Your Environment
