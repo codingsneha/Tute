@@ -98,4 +98,4 @@ The web-application is created on the Django framework.
 
 ---
 
-Thank you for using **Tute**! If you encounter any issues or have suggestions for improvement, please feel free to contribute to the project or reach out. Happy creating!
+Thank you for visiting **Tute**! If you encounter any issues or have suggestions for improvement, please feel free to contribute to the project or reach out. Happy creating!
